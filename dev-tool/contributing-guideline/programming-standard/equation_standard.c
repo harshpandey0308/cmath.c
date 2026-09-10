@@ -1,4 +1,4 @@
-#inclide<stdio.h>
+#include<stdio.h> // previously there is a typo mistake here , that is instead of #include , it was #inclide
 
 /****************************************
 * Project CMath
